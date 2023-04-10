@@ -9,6 +9,15 @@ A console application in Java, which already has information about the required 
 ### Technologies used
 Java
 ### Challenges
+### Future features
+
+## How to install and run the project?
+
+## How to use the project?
+
+### Credits
+
+
 
 
 
