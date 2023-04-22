@@ -1,0 +1,18 @@
+title: COS Course Scheduler
+width: 800
+height: 400
+semesters: 8
+coursesPerSemester: 3
+maxCoursesPerCategory:
+  -
+    name: required
+    amount: -1
+  -
+    name: elective group 1
+    amount: 2
+  -
+    name: elective group 2
+    amount: 2
+  -
+    name: elective group 3
+    amount: 2

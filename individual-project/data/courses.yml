@@ -1,0 +1,98 @@
+-
+  name: COS120 C++ Programming
+  category: required
+  prerequisites:
+-
+  name: COS150 Discrete Structures
+  category: required
+  prerequisites:
+-
+  name: COS221 Fundamental Data Structures
+  category: required
+  prerequisites:
+    - COS120 C++ Programming
+    - COS150 Discrete Structures
+-
+  name: COS230 Basics in Java Programming
+  category: required
+  prerequisites:
+    - COS120 C++ Programming
+-
+  name: COS235 Computer Architecture
+  category: required
+  prerequisites:
+-
+  name: COS315 Software Engineering
+  category: required
+  prerequisites:
+    - COS230 Basics in Java Programming
+-
+  name: COS491 Senior Project I
+  category: required
+  prerequisites:
+    - COS315 Software Engineering
+-
+  name: COS231 Introduction to UNIX
+  category: elective group 1
+  prerequisites:
+-
+  name: INF130 Basics in C# Programming
+  category: elective group 1
+  prerequisites:
+-
+  name: INF280 Database Systems
+  category: elective group 1
+  prerequisites:
+-
+  name: MAT201 Mathematical Statistics
+  category: elective group 1
+  prerequisites:
+-
+  name: MAT214 Numerical Analysis
+  category: elective group 1
+  prerequisites:
+-
+  name: COS331 Operating Systems
+  category: elective group 2
+  prerequisites:
+    - COS235 Computer Architecture
+-
+  name: COS340 Programming in Python
+  category: elective group 2
+  prerequisites:
+    - COS120 C++ Programming
+-
+  name: INF335 Web Server Technologies
+  category: elective group 2
+  prerequisites:
+-
+  name: INF370 Information Security
+  category: elective group 2
+  prerequisites:
+-
+  name: INF375 Web-Client Technologies
+  category: elective group 2
+  prerequisites:
+-
+  name: COS440 Computer Networks
+  category: elective group 3
+  prerequisites:
+    - COS120 C++ Programming
+-
+  name: COS460 Algorithms
+  category: elective group 3
+  prerequisites:
+    - COS221 Fundamental Data Structures
+-
+  name: COS470 AI and AI Programming
+  category: elective group 3
+  prerequisites:
+-
+  name: COS480 Data Mining
+  category: elective group 3
+  prerequisites:
+    - COS221 Fundamental Data Structures
+-
+  name: INF480 Big Data Analytics
+  category: elective group 3
+  prerequisites:
