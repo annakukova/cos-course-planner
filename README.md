@@ -4,7 +4,7 @@ An app that helps you plan your schedule for the Computer Science major to gradu
 
 ## Project description
 
-A console application in Java, which has information about the required and elective COS courses offered at The American University in Bulgaria. The user will input their standing and the courses they have already taken. The program will make a schedule for the remaining semesters based on which courses have prerequisite courses. The program will take into account the max number of courses that can be taken per semester, as well as the max number of electives from each group of electives. Additionally, if there is not a suitable way to take all remaining courses from the major by the desired graduation time, the application will let the user know they cannot graduate with the COS major.
+A console application in Java, which has information about the required and elective COS courses offered at The American University in Bulgaria. The user will input their standing and the courses they have already taken. The program will make a schedule for the remaining semesters based on which courses have prerequisite courses. The program will take into account the max number of courses that can be taken per semester, as well as the max number of electives from each group of electives.
 
 ### Technologies used
 Java Swing, Maven, YAML
@@ -24,7 +24,7 @@ Finally, run the App.java file.
 
 ## How to use the project?
 Once you successfully run the project, it will guide you through the app and provide instructions on what you need to do.
-The app will prompt you to check all the courses you have taken so far. It then lets you choose your future courses and you can also save that selection. Then it will prompt you to give information about the number of remaining semesters you have in the university. Finally, the output is a schedule for the remaining semesters. If there is not a suitable way for you to take all the courses you want in the remaining semesters in university, the app will let you know that you cannot graduate with the COS major in the desired number of semesters.
+The app will prompt you to check all the courses you have taken so far. It then lets you choose your future courses and you can also save that selection. Then it will prompt you to give information about the number of remaining semesters you have in the university. Finally, the output is a schedule for the remaining semesters.
 
 ### Credits
 Project author: Anna Kukova
