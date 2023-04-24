@@ -4,7 +4,7 @@ An app that helps you plan your schedule for the Computer Science major to gradu
 
 ## Project description
 
-A console application in Java, which has information about the required and elective COS courses offered at The American University in Bulgaria. The user will input their standing and the courses they have already taken. The program will make a schedule for the remaining semesters based on which courses have prerequisite courses. The program will take into account the max number of courses that can be taken per semester, as well as the max number of electives from each group of electives.
+A console application in Java, which has information about the required and elective COS courses offered at The American University in Bulgaria. The user will input the courses they have already taken and which courses they want to take. The program will make a schedule for the remaining semesters based on which courses have prerequisite courses. The program will take into account the max number of courses that can be taken per semester, as well as the max number of electives from each group of electives.
 
 ### Technologies used
 Java Swing, Maven, YAML
@@ -17,8 +17,8 @@ The project currently deals with the COS major only, which is also the reason wh
 
 ## How to install and run the project?
 First, download and unarchive the project folder. 
-Open the app whuch is located in: src\main\java\com\example\app\App.java
-Depending on your Jalava language version, you might have to switch to an older version, Java 11, because of certain static methods for array manipulation that may not be used in newer versions of Java. If you are using an IDE such as IntelliJ, the editor will give you a hint to do that.
+Open the app which is located in: src\main\java\com\example\app\App.java
+Depending on your Java language version, you might have to switch to an older version, Java 11, because of certain static methods for array manipulation that may not be used in newer versions of Java. If you are using an IDE such as IntelliJ, the editor will give you a hint to do that.
 Finally, run the App.java file.
 
 
