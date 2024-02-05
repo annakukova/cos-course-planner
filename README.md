@@ -4,7 +4,7 @@ An app that helps you plan your schedule for the Computer Science major to gradu
 
 ## Project description
 
-A console application in Java, which has information about the required and elective COS courses offered at The American University in Bulgaria. The user will input the courses they have already taken and which courses they want to take. The program will make a schedule for the remaining semesters based on which courses have prerequisite courses. The program will take into account the max number of courses that can be taken per semester, as well as the max number of electives from each group of electives.
+A GUI application in Java, which has information about the required and elective COS courses offered at The American University in Bulgaria. The user will input the courses they have already taken and which courses they want to take. The program will make a schedule for the remaining semesters based on which courses have prerequisite courses. The program will take into account the max number of courses that can be taken per semester, as well as the max number of electives from each group of electives.
 
 ### Technologies used
 Java Swing, Maven, YAML
